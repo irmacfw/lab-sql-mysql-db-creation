@@ -3,10 +3,10 @@
 ## Challenge 1 - E-R Diagram
 
 ### Primer diagrama (sin espacios en el nombre)
-![ERD Diagram](erd.png)
+![ERD versión 1](erd.png)
 
 ### Segundo diagrama (con espacio en el nombre)
-![E-R Diagram](E-R%20Diagram.png)
+![ERD versión 2](E-R%20Diagram.png)
 
 ## Challenge 2 - Create the Database and Tables
 SQL script: [create.sql](create.sql)
