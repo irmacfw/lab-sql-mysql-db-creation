@@ -235,3 +235,7 @@ git push origin master
 - [MySQL Reference: INSERT Syntax](https://dev.mysql.com/doc/refman/8.0/en/insert.html)
 - [MySQL Reference: UPDATE Syntax](https://dev.mysql.com/doc/refman/8.0/en/update.html)
 - [MySQL Reference: DELETE Syntax](https://dev.mysql.com/doc/refman/8.0/en/delete.html)
+
+## Challenge 1 - ERD Diagram
+
+![ERD Diagram](erd.png)
