@@ -1,7 +1,12 @@
 # Lab | MySQL Database Creation
 
 ## Challenge 1 - E-R Diagram
-![E-R Diagram](erd.png)
+
+### Primer diagrama (sin espacios en el nombre)
+![ERD Diagram](erd.png)
+
+### Segundo diagrama (con espacio en el nombre)
+![E-R Diagram](E-R%20Diagram.png)
 
 ## Challenge 2 - Create the Database and Tables
 SQL script: [create.sql](create.sql)
