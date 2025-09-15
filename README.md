@@ -1,7 +1,7 @@
 # Lab | MySQL Database Creation
 
 ## Challenge 1 - ERD Diagram
-![ERD Diagram](erd.png)
+![ERD Diagram](./erd.png)
 
 ## Challenge 2 - Create the Database and Tables
 SQL script: [create.sql](create.sql)
@@ -11,4 +11,5 @@ SQL script: [seeding.sql](seeding.sql)
 
 ## Bonus Challenge - Updating and Deleting Database Records
 SQL scripts: [update.sql](update.sql) and [delete.sql](delete.sql)
+
 
